@@ -1,0 +1,22 @@
+{
+  "name": "long-weibo-gif",
+  "version": "1.0.0",
+  "description": "long weibo gif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplecooler/long-weibo-gif.git"
+  },
+  "keywords": [
+    "gif"
+  ],
+  "author": "szm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplecooler/long-weibo-gif/issues"
+  },
+  "homepage": "https://github.com/simplecooler/long-weibo-gif#readme"
+}
